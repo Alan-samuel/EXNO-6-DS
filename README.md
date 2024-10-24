@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f3882cf6-dc6b-483f-9ae1-c6dfb1f01d03)# EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
+# EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
 
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
@@ -18,6 +18,9 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
+
+Name: Alan Samuel Vedanayagam
+Reg. no: 212223040012
 ```
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -304,4 +307,4 @@ hms=sns.heatmap(data=data,annot=True)
 
 
 # Result:
- Include your result here
+Thus, all the data visualization techniques of seaborn has been implemented.
